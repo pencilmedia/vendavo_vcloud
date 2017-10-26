@@ -8,7 +8,7 @@
 <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
 
 <!-- Highcharts.js CDN -->
-<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
 
 <!-- Bootstrap Component Scripts -->
 <script <?php echo 'src="' . $ROOT . 'bootstrap/bootstrap.min.js"' ?>></script> 
