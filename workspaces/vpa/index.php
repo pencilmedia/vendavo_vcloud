@@ -26,6 +26,6 @@
     <?php include("../../assets/javascripts.inc.php"); ?>
     <!-- App: Midas -->
     <script type="text/javascript" <?php echo 'src="' . $ROOT . 'workspaces/vpa/index.js"' ?>></script>
-    <script type="text/javascript" <?php echo 'src="' . $ROOT . 'workspaces/vpa/highcharts.js"' ?>></script>
+    <script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
   </body>
 </html>
